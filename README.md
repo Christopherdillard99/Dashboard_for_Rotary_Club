@@ -26,7 +26,7 @@ Some highlights from this project were:
 *Using VLOOKUP, I wanted to ensure that the event type is correctly split for events that are for-profit (labeled as Income) and all others, like donations, raffles, or scholarships (Expense)*
 ![Data Cleanup for Pivot Tables with VLOOKUP](https://github.com/user-attachments/assets/22f98894-a81b-4607-b3b7-d4c441846856)
 
-### Next, I need to create Pivot Charts that would be added to the dashboard:
+### Next, I needed to create Pivot Charts that would be added to the dashboard:
 *I wanted to split these into several worksheets for organization purposes and ensuring enough variety in visualizations*
 ![Pivot Charts for Dashboard](https://github.com/user-attachments/assets/5ac383e6-61d2-4c7e-8af4-bcc7ee8acade)
 
